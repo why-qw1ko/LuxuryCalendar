@@ -1,0 +1,17 @@
+{
+  "pluginName": "Luxury日历",
+  "description": "查询日历、农历、节气与节假日",
+  "author": "why",
+  "version": "1.0.0",
+  "main": "index.html",
+  "logo": "logo.png",
+  "pluginSetting": { "height": 700 },
+  "features": [
+    {
+      "code": "calendar",
+      "description": "查看日历、农历和节假日",
+      "explain": "查看日历、农历和节假日",
+      "cmds": ["日历", "calendar", "农历"]
+    }
+  ]
+}
